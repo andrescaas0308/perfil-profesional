@@ -9,7 +9,6 @@ index.html            Estructura semántica, SEO y datos estructurados
 css/styles.css        Estilos (mobile-first)
 js/main.js            Carrusel de proyectos, menú activo, tema, formulario
 assets/               Imágenes (WebP/JPG ligeras) e imagen para redes (og.jpg)
-404.html              Página de error
 robots.txt, sitemap.xml
 scripts/check.mjs     Pruebas automáticas antes de publicar
 .github/workflows/    Ejecuta las pruebas en cada push
@@ -53,11 +52,9 @@ Abre `index.html` en el navegador. Las fuentes (Google Fonts) necesitan internet
 
 ## Publicar con GitHub Pages
 
-1. Sube el contenido a un repositorio llamado `portafolio`.
+1. Sube el contenido al repositorio `perfil-profesional`.
 2. En GitHub: Settings → Pages → Source: "Deploy from a branch" → rama `main`, carpeta `/ (root)`.
-3. El sitio queda en `https://andrescaas0308.github.io/portafolio/`.
-
-Si el repositorio tiene otro nombre, cambia la dirección en `index.html` (`canonical`, `og:url`, `og:image`, JSON-LD), en `sitemap.xml` y en `robots.txt`.
+3. El sitio queda en `https://andrescaas0308.github.io/perfil-profesional/`.
 
 ## Pendiente de completar
 

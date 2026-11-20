@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andrescaas0308.github.io/perfil-profesional/sitemap.xml
